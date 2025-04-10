@@ -5,3 +5,4 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 ## Membres du groupe
 
 - `initiateur` : [Lanoue Lucas]
+- `contributeur-2` : [Toussaint Sarah]
