@@ -7,10 +7,10 @@ nav:
       - Core Functions: features/functions.md
       - User Interface: features/user-interface.md
   - Logs:
-      - Initiateur: logs/log-initiateur.md
-      - Contributeur 1: logs/log-contributor-1.md
-      - Contributeur 2: logs/log-contributeur-2.md
-      - Contributeur 3: logs/log-contributor-3.md
+      - Initiateur: docs/logs/log-initiateur.md
+      - Contributeur 1: docs/logs/log-contributor-1.md
+      - Contributeur 2: docs/logs/log-contributeur-2.md
+      - Contributeur 3: docs/logs/log-contributor-3.md
 
 theme: readthedocs
 
