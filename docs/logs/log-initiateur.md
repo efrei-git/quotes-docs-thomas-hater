@@ -1,3 +1,5 @@
+## Log Initiator
+
 ```bash
 *   ffef1e5 (HEAD -> main, origin/main, origin/HEAD, initiator) Merge pull request #6 from Matteixou/contributor-3
 |\  
