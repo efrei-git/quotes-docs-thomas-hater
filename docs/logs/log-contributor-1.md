@@ -1,4 +1,4 @@
-## Log <contributor-1>
+## Log contributor-1
 
 ```bash
 * 192c967 (HEAD -> contributor-1, origin/contributor-1) Add files mkdocs.yml
