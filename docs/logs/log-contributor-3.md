@@ -1,4 +1,4 @@
-## Log <contributor-3>
+## Log contributor-3
 
 ```bash
 * 7571db5 (HEAD -> contributor-3, origin/contributor-3) add files docs/user-interface.md
