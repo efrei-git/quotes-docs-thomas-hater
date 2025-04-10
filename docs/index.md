@@ -6,4 +6,8 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 
 - `initiateur` : [Lanoue Lucas]
 - `contributor-1`: [Vinh-Lam Lê]
+- `contributeur-2` : [Toussaint Sarah]
 - `contributor-3` : [Feracho Matthieu]
+
+
+
