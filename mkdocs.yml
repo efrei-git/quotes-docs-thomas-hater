@@ -1,2 +1,6 @@
 site_name: Documentation Programming Quotes [thomas-hater]
 
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Core Functions: functions.md
